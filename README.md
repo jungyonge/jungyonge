@@ -15,7 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###  :muscle:Skills
 
-![Jungyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyonge&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyonge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+####  Bacnend
+
+<p align ="left">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />  
+<img src="https://img.shields.io/badge/Blockchain-F7931A?style=flat-square&logo=Bitcoin&logoColor=white" />
+
+ 
+####  Frontend
+<p align ="left">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />  
+  
+####  DB
+<p align ="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />    
+  
+####  Infra
+<p align ="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+
+
+
+
+![Jungyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyonge&show_icons=true&theme=transparent)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyonge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsro1212)](https://solved.ac/qjsro1212)
