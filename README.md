@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  :muscle:Skills
+###  :muscle: Skills
 
-####  Bacnend
+####  Backend
 
 <p align ="left">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
 
-
-![Jungyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyonge&show_icons=true&theme=transparent)  
+###  :computer: GitHub Stats
+![Jungyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyonge&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyonge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+###  :desktop_computer: BaekJoon Stats
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsro1212)](https://solved.ac/qjsro1212)
