@@ -6,7 +6,8 @@
   <a href="https://blockchain-baam.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-Tistory-6366f1?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
-> **"불편을 해결하고 사용자의 니즈를 생각하는 개발자입니다."** > 복잡한 비즈니스 로직을 안정적인 코드로 구현하며, 대규모 배치 시스템과 데이터 파이프라인 최적화에 강점을 가지고 있습니다.
+> **"불편을 해결하고 사용자의 니즈를 생각하는 개발자입니다."**   
+> 복잡한 비즈니스 로직을 안정적인 코드로 구현하며, 대규모 배치 시스템과 데이터 파이프라인 최적화에 강점을 가지고 있습니다.
 
 ---
 
