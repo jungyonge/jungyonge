@@ -105,13 +105,13 @@
 ### 📊 GitHub & Programming Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jungyonge&show_icons=true&theme=radical&count_private=true&v=3" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyonge&layout=compact&theme=radical&v=3" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jungyonge&show_icons=true&theme=default&count_private=true&v=5" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jungyonge&layout=compact&theme=default&v=5" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
   <a href="https://solved.ac/qjsro1212" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsro1212&v=3" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsro1212&v=4" alt="Solved.ac Profile" />
   </a>
 </p>
 
